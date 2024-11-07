@@ -1,4 +1,5 @@
-//C program of 2D array named  scores#include<stdio.h>
+//C program of 2D array named  scores
+#include<stdio.h>
 int main () {
 int i,j,k;
 
